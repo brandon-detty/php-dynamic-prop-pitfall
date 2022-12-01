@@ -1,0 +1,17 @@
+{
+  "name": "brandon-detty/php-dynamic-prop-pitfall",
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "BrandonDetty\\DynamicPropPitfall\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Brandon Detty"
+    }
+  ],
+  "bin": ["bin/run"]
+}
